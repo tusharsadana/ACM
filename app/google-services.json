@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808385909814",
+    "firebase_url": "https://acm-attendance-e9968.firebaseio.com",
+    "project_id": "acm-attendance-e9968",
+    "storage_bucket": "acm-attendance-e9968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808385909814:android:f2935ce0eba4f1f6",
+        "android_client_info": {
+          "package_name": "vat.hacksociety.acm.acm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808385909814-2mqkuji6sjiofnqp3v0mnpprsip923uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vat.hacksociety.acm.acm",
+            "certificate_hash": "b200e9e1969d078d5f3894b3144ac62cc70fad61"
+          }
+        },
+        {
+          "client_id": "808385909814-ee8qivksna8bv723g94irk4kosuk77uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtIRg30jSUAD9pttgSVZOEfTUpq7pX7Nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808385909814-ee8qivksna8bv723g94irk4kosuk77uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
